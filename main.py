@@ -2,7 +2,7 @@
 # Collaborator: Joshua Watt jhw5304@psu.edu
 # Collaborator: Claudio Tapia-Manon cbt311@psu.edu
 # Collaborator: Dongsheng Zang dkz5086@psu.edu
-# Section: 1-12
+# Section: 005R
 # Breakout: 9
 
 def sum_n(n):
